@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ftdso5.rtb-system.online/sitemap.xml
